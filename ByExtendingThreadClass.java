@@ -1,5 +1,5 @@
 package com.multithreading.inJava;
-// 2nd commit
+// 2nd commit of ChildThread Class
 class ChildThread extends Thread
 {
 	public void run()
